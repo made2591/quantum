@@ -1,2 +1,3 @@
-# quantum
-Some first exercises using OPENQASM 2.0.
+# QEXP
+
+This repo contains first qasm experiment using OPENQASM 2.0.
